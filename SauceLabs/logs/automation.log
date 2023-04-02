@@ -1,0 +1,71 @@
+02:05:12.368 [main] INFO  testcases.End - ***     Starting end to end testing	***
+02:05:12.993 [main] INFO  testcases.End - *** successfully logged to product page  ***
+02:05:13.394 [main] INFO  testcases.End - ***     the product Sauce Labs Fleece Jacket is added to the cart	***
+02:05:13.512 [main] INFO  testcases.End - ***     successfully navigated to cartPage	***
+02:05:13.602 [main] INFO  testcases.End - ***     Checkout is clicked	***
+02:05:13.892 [main] INFO  testcases.End - ***     Address details are successfully entered	***
+02:05:14.013 [main] INFO  testcases.End - ***     go to overview button is clicked	***
+02:05:14.083 [main] INFO  testcases.End - ***     the final finish button is clicked to complete the order	***
+02:05:14.130 [main] INFO  testcases.End - ***     the thankyou message is displayed along with order placed message	***
+15:53:00.446 [TestNG-test=Test-1] INFO  testcases.End - ***     Starting end to end testing	***
+15:53:01.872 [TestNG-test=Test-1] INFO  testcases.End - successfully logged to product page
+15:53:02.280 [TestNG-test=Test-1] INFO  testcases.End - the product Sauce Labs Fleece Jacket is added to the cart
+15:53:02.371 [TestNG-test=Test-1] INFO  testcases.End - successfully navigated to cartPage
+15:53:02.464 [TestNG-test=Test-1] INFO  testcases.End - Checkout is clicked
+15:53:02.786 [TestNG-test=Test-1] INFO  testcases.End - Address details are successfully entered
+15:53:02.926 [TestNG-test=Test-1] INFO  testcases.End - go to overview button is clicked
+15:53:02.996 [TestNG-test=Test-1] INFO  testcases.End - the final finish button is clicked to complete the order
+15:53:03.049 [TestNG-test=Test-1] INFO  testcases.End - ***     the thankyou message is displayed along with order placed message	***
+17:24:57.418 [TestNG-test=Test-1] INFO  testcases.End - ***     Starting end to end testing	***
+17:24:58.563 [TestNG-test=Test-1] INFO  testcases.End - successfully logged to product page
+17:24:59.597 [TestNG-test=Test-1] INFO  testcases.End - the product Sauce Labs Fleece Jacket is added to the cart
+17:24:59.747 [TestNG-test=Test-1] INFO  testcases.End - successfully navigated to cartPage
+17:24:59.861 [TestNG-test=Test-1] INFO  testcases.End - Checkout is clicked
+17:25:00.253 [TestNG-test=Test-1] INFO  testcases.End - Address details are successfully entered
+17:25:00.449 [TestNG-test=Test-1] INFO  testcases.End - go to overview button is clicked
+17:25:00.546 [TestNG-test=Test-1] INFO  testcases.End - the final finish button is clicked to complete the order
+17:25:00.602 [TestNG-test=Test-1] INFO  testcases.End - ***     the thankyou message is displayed along with order placed message	***
+17:28:12.968 [TestNG-test=Test-1] INFO  testcases.End - ***     Starting end to end testing	***
+17:28:14.071 [TestNG-test=Test-1] INFO  testcases.End - successfully logged to product page
+17:28:14.565 [TestNG-test=Test-1] INFO  testcases.End - the product Sauce Labs Fleece Jacket is added to the cart
+17:28:14.730 [TestNG-test=Test-1] INFO  testcases.End - successfully navigated to cartPage
+17:28:14.837 [TestNG-test=Test-1] INFO  testcases.End - Checkout is clicked
+17:28:15.357 [TestNG-test=Test-1] INFO  testcases.End - Address details are successfully entered
+17:28:15.589 [TestNG-test=Test-1] INFO  testcases.End - go to overview button is clicked
+17:28:15.826 [TestNG-test=Test-1] INFO  testcases.End - the final finish button is clicked to complete the order
+18:22:43.360 [TestNG-test=Test-1] INFO  testcases.End - ***     Starting end to end testing	***
+18:22:44.766 [TestNG-test=Test-1] INFO  testcases.End - successfully logged to product page
+18:22:45.422 [TestNG-test=Test-1] INFO  testcases.End - the product Sauce Labs Fleece Jacket is added to the cart
+18:22:45.527 [TestNG-test=Test-1] INFO  testcases.End - successfully navigated to cartPage
+18:22:45.624 [TestNG-test=Test-1] INFO  testcases.End - Checkout is clicked
+18:22:45.981 [TestNG-test=Test-1] INFO  testcases.End - Address details are successfully entered
+18:22:46.167 [TestNG-test=Test-1] INFO  testcases.End - go to overview button is clicked
+18:22:46.275 [TestNG-test=Test-1] INFO  testcases.End - the final finish button is clicked to complete the order
+18:22:46.325 [TestNG-test=Test-1] INFO  testcases.End - ***     the thankyou message is displayed along with order placed message	***
+13:46:27.511 [TestNG-test=Test-1] INFO  testcases.End - ***     Starting end to end testing	***
+13:46:28.565 [TestNG-test=Test-1] INFO  testcases.End - successfully logged to product page
+13:46:28.864 [TestNG-test=Test-1] INFO  testcases.End - the product Sauce Labs Fleece Jacket is added to the cart
+13:46:28.971 [TestNG-test=Test-1] INFO  testcases.End - successfully navigated to cartPage
+13:46:29.215 [TestNG-test=Test-1] INFO  testcases.End - Checkout is clicked
+13:46:29.577 [TestNG-test=Test-1] INFO  testcases.End - Address details are successfully entered
+13:46:29.761 [TestNG-test=Test-1] INFO  testcases.End - go to overview button is clicked
+13:46:29.916 [TestNG-test=Test-1] INFO  testcases.End - the final finish button is clicked to complete the order
+13:46:29.981 [TestNG-test=Test-1] INFO  testcases.End - ***     the thankyou message is displayed along with order placed message	***
+14:52:30.572 [TestNG-test=Test-1] INFO  testcases.End - ***     Starting end to end testing	***
+14:52:31.638 [TestNG-test=Test-1] INFO  testcases.End - successfully logged to product page
+14:52:32.026 [TestNG-test=Test-1] INFO  testcases.End - the product Sauce Labs Fleece Jacket is added to the cart
+14:52:32.147 [TestNG-test=Test-1] INFO  testcases.End - successfully navigated to cartPage
+14:52:32.244 [TestNG-test=Test-1] INFO  testcases.End - Checkout is clicked
+14:52:32.549 [TestNG-test=Test-1] INFO  testcases.End - Address details are successfully entered
+14:52:32.677 [TestNG-test=Test-1] INFO  testcases.End - go to overview button is clicked
+14:52:32.747 [TestNG-test=Test-1] INFO  testcases.End - the final finish button is clicked to complete the order
+14:52:32.788 [TestNG-test=Test-1] INFO  testcases.End - ***     the thankyou message is displayed along with order placed message	***
+14:57:15.951 [TestNG-test=Test-1] INFO  testcases.End - ***     Starting end to end testing	***
+14:57:17.256 [TestNG-test=Test-1] INFO  testcases.End - successfully logged to product page
+14:57:18.024 [TestNG-test=Test-1] INFO  testcases.End - the product Sauce Labs Fleece Jacket is added to the cart
+14:57:18.121 [TestNG-test=Test-1] INFO  testcases.End - successfully navigated to cartPage
+14:57:18.216 [TestNG-test=Test-1] INFO  testcases.End - Checkout is clicked
+14:57:18.509 [TestNG-test=Test-1] INFO  testcases.End - Address details are successfully entered
+14:57:18.633 [TestNG-test=Test-1] INFO  testcases.End - go to overview button is clicked
+14:57:18.707 [TestNG-test=Test-1] INFO  testcases.End - the final finish button is clicked to complete the order
+14:57:18.755 [TestNG-test=Test-1] INFO  testcases.End - ***     the thankyou message is displayed along with order placed message	***
